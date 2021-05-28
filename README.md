@@ -25,11 +25,11 @@
 	- Update the path of Distibert Model specified in the file to your system path where the Distilbert Model is present.
 	- Update the path of ALBERT Model specified in the file to your system path where the ALBERT Model is present.	
 - Step 5: Install Dependencies	
-	- Install k-train library using the following command in terminal
+	- Install k-train library using the following command in terminal:
 		  ```
 		  pip install ktrain
 		  ```
-	- Install transformers library using the following command in terminal
+	- Install transformers library using the following command in terminal:
 		  ```
 		  pip install transformers
 		  ```
